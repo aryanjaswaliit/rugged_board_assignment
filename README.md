@@ -3,7 +3,7 @@
 
 ***Email : aryanjaswaliit@gmail.com***
 
->We are selected as Hamirpur Batch 1 for ***Embedded System**
+>We are selected as Hamirpur Batch 1 for **Embedded System**
 
 > ***Note*** This Assignment is just basic of C language that required for starting the journing of ***Embedded System***
 
